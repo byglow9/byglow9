@@ -1,5 +1,5 @@
 
-<h1> Hello world, i'm Renan! 💫</h1>
+<h1> Hello world, i'm Renan! </h1>
 
 
 **About me**
