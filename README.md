@@ -10,7 +10,9 @@
 </div>
 
 - 📈 starting in programming
-- 💼 Studying systems development at SENAI
+- 💼 graduated in systems development at SENAI ZERBINI
+- 🫶 passionate about technology
+- 🔎 looking for my first job in the area
 
 
 ## Technologies
