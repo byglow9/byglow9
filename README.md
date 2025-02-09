@@ -11,6 +11,7 @@
 
 - 📈 starting in programming
 - 💼 graduated in systems development at SENAI ZERBINI
+- 👏 studying ADS at USF
 - 🫶 passionate about technology
 - 🔎 looking for my first job in the area
 
